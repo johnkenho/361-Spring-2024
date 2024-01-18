@@ -161,9 +161,8 @@ Clone the repo, create a new branch and name the branch `Firstname Lastname` you
 
 See https://bmacgtpm.github.io/notes/github-copilot-in-rstudio.html.  
 
-![](img/snip of GitHub Copilot.png)
+![](/Users/johnho/Desktop/Stats361/Stats361/images/copilotpic.png)
 
 If you use Github Copilot elsewhere, take a screenshot of whatever software you use.
-
 
 
