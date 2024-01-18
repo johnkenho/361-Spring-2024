@@ -26,7 +26,8 @@ library(knitr)
 
 After you submit the quiz, take a screenshot of the time stamp and Question 1. It should look something like this. 
 
-![](img/snip of Course Survey.png)
+![](images/canvasQ1.png)
+
 
 Edit the above file name and path to show your screenshot and ensure that it appears when you knit your document. 
 
@@ -107,7 +108,7 @@ g = ggplot(iris,
             aes(x = Petal.Width, 
                 y = Petal.Length)) + 
   geom_point() + 
-  ggtitle("Brian Macdonald's animation")
+  ggtitle("John Ho's animation")
 g
 
 a = g + 
@@ -118,8 +119,8 @@ a = g +
 #a  ## check that the animation works
 
 ## save the animation
-# anim_save(a, 
-#           filename = 'img/test animation.gif')
+#anim_save(a, 
+#          filename = 'img/test animation.gif')
 
 ```
 
@@ -148,7 +149,7 @@ See https://bmacgtpm.github.io/notes/software-installation.html.
 Take a screenshot showing Github Desktop (or different software, or the command line) and show it here. 
 
 
-![](img/snip of GitHub Desktop.png)
+![](/Stats361/Stats361/gitdesksc.png)
 
 If you have experience with Git/Github, and prefer to use different software or the command line, that's fine, but we may not be able to help if you have a problem.
 
